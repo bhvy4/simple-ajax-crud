@@ -20,6 +20,7 @@ include "include/head.php";
                         </div>
                     </div>
                 </div>
+                <div class = 'error'></div>
                 <table class="table table-striped table-hover">
                     <thead>
                         <tr>

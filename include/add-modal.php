@@ -6,6 +6,7 @@
                  <h4 class="modal-title">Add Employee</h4>
                  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
              </div>
+             <div class="error"></div>
              <form id="fileUploadForm" action="" method="post" enctype="multipart/form-data">
                  <div class="modal-body add_employee">
                      <div class="form-group">
